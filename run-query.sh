@@ -91,4 +91,3 @@ awk 'BEGIN { FS="\t"; OFS="," } {
 echo -e "\033[36mSaved to:\033[0m $csvfile"
 
 echo -e "\033[32mDone\033[0m"
-

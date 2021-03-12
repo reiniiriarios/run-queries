@@ -27,7 +27,6 @@ The script will list all available queries. Enter which query to run by number. 
 
 ## Known Issues
 
-* `.sql` files should be alphanumeric plus dash and underscore. Spaces or odd characters may break the script.
 * This script will break if double quotes or backticks are used in `.sql` files.
 * Depending on data being fetched, the script may not generate a valid CSV. If so, try the TSV or adjust the query as needed.
 
